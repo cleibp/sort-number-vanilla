@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  
+  .line-top{
+    height: 20px;
+  }
+  
+  body {
+    background: linear-gradient(to right, #26d0ce, #1a2980);
+  }
